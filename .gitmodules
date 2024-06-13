@@ -1,0 +1,9 @@
+[submodule "others/CLHT"]
+	path = others/CLHT
+	url = https://github.com/HugoGuiroux/CLHT
+[submodule "others/ssmem"]
+	path = others/ssmem
+	url = https://github.com/HugoGuiroux/ssmem.git
+[submodule "others/sspfd"]
+	path = others/sspfd
+	url = https://github.com/HugoGuiroux/sspfd.git
